@@ -91,9 +91,9 @@
     </td>
     <td align="center" width="96">
       <a href="https://gitlab.com/rakibhasan1030/">
-        <img src="./images/colab.png" width="48" height="48" alt="gitlab" />
+        <img src="./images/colab.png" width="48" height="48" alt="colab" />
       </a>
-      <br>GitLab&nbsp;
+      <br>Google CoLab&nbsp;
     </td>
   </tr>
 </table>
