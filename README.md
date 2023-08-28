@@ -91,7 +91,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://gitlab.com/rakibhasan1030/">
-        <img src="./images/gitlab_icon.svg" width="48" height="48" alt="gitlab" />
+        <img src="./images/colab.png" width="48" height="48" alt="gitlab" />
       </a>
       <br>GitLab&nbsp;
     </td>
