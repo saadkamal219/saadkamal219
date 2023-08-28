@@ -57,6 +57,12 @@
       </a>
       <br>CodeBlocks&nbsp;
     </td>
+    <td align="center" width="96">
+      <a href="https://www.codeblocks.org/">
+        <img src="./images/python.png" width="48" height="48" alt="python" />
+      </a>
+      <br>Python&nbsp;
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -73,15 +79,15 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.sqlite.org/">
-        <img src="./images/sqlite_icon.svg" width="48" height="48" alt="sqlite" />
+        <img src="./images/mongodb.svg" width="48" height="48" alt="mongodb" />
       </a>
-      <br>SQLite&nbsp;
+      <br>MongoDB&nbsp;
     </td>
     <td align="center" width="96">
       <a href="https://www.mysql.com/">
-        <img src="./images/mysql_icon.svg" width="48" height="48" alt="mysql" />
+        <img src="./images/shell.png" width="48" height="48" alt="shell" />
       </a>
-      <br>MySQL&nbsp;
+      <br>Shell&nbsp;
     </td>
     <td align="center" width="96">
       <a href="https://github.com/rakibhasan1030/">
