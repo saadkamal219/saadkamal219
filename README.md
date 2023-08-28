@@ -21,9 +21,9 @@
 
 
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Softwares and Tools</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, IDEs, and Softwares of my favourite.
 
 <table>
   <tr>
