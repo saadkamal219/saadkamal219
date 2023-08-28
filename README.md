@@ -20,3 +20,82 @@
 </p>
 
 
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.cprogramming.com/">
+        <img src="./images/c_icon.svg" width="48" height="48" alt="c" />
+      </a>
+      <br>C&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com/">
+        <img src="./images/java_icon.svg" width="48" height="48" alt="java" />
+      </a>
+      <br>Java&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="./images/html_icon.svg" width="48" height="48" alt="html" />
+      </a>
+      <br>HTML&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="./images/css_icon.svg" width="48" height="48" alt="css" />
+      </a>
+      <br>CSS&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.codeblocks.org/">
+        <img src="./images/codeblocks_icon.svg" width="48" height="48" alt="codeblocks" />
+      </a>
+      <br>CodeBlocks&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://developer.android.com/studio">
+        <img src="./images/android_studio_icon.svg" width="48" height="48" alt="android studio" />
+      </a>
+      <br>Android Studio&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/">
+        <img src="./images/visual_studio_code_icon.svg" width="48" height="48" alt="visual studio code" />
+      </a>
+      <br>VS Code&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.sqlite.org/">
+        <img src="./images/sqlite_icon.svg" width="48" height="48" alt="sqlite" />
+      </a>
+      <br>SQLite&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/">
+        <img src="./images/mysql_icon.svg" width="48" height="48" alt="mysql" />
+      </a>
+      <br>MySQL&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/rakibhasan1030/">
+        <img src="./images/github_icon.svg" width="48" height="48" alt="github" />
+      </a>
+      <br>GitHub&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="https://gitlab.com/rakibhasan1030/">
+        <img src="./images/gitlab_icon.svg" width="48" height="48" alt="gitlab" />
+      </a>
+      <br>GitLab&nbsp;
+    </td>
+  </tr>
+</table>
+
+<br>
