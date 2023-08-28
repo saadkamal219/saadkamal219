@@ -50,26 +50,11 @@
         <img src="./images/css_icon.svg" width="48" height="48" alt="css" />
       </a>
       <br>CSS&nbsp;
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.codeblocks.org/">
-        <img src="./images/codeblocks_icon.svg" width="48" height="48" alt="codeblocks" />
-      </a>
-      <br>CodeBlocks&nbsp;
-    </td>
     <td align="center" width="96">
       <a href="https://www.codeblocks.org/">
         <img src="./images/python.png" width="48" height="48" alt="python" />
       </a>
       <br>Python&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://developer.android.com/studio">
-        <img src="./images/android_studio_icon.svg" width="48" height="48" alt="android studio" />
-      </a>
-      <br>Android Studio&nbsp;
     </td>
     <td align="center" width="96">
       <a href="https://code.visualstudio.com/">
