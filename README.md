@@ -23,7 +23,7 @@
 
 <h2 align="left" id="macropower-tech">Softwares and Tools</h2>
 
-> Tools, IDEs, and Softwares of my favorite.
+> Tools, IDEs, and software of my favorite.
 
 <table>
   <tr>
