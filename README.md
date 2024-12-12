@@ -6,7 +6,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=saadkamal219&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saad Kamal" src="https://github-readme-streak-stats.herokuapp.com/?user=saadkamal219&theme=vision-friendly-dark&hide_border=true" />
+  
 
 </td>
 
