@@ -2,7 +2,7 @@
   <br>
 <table border="0" align="center">
 <tr border="0">
-<td width="50%" align="center">
+<td width="55%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=saadkamal219&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=true"/>
   <br></br>
@@ -10,7 +10,7 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="55%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saadkamal219&layout=compact&theme=vision-friendly-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook"/>
   
   </td>
